@@ -11,3 +11,4 @@
 </div>
 
 ![Snake animation](https://github.com/zRobertinha/zRobertinha/blob/output/github-contribution-grid-snake-dark.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=zRobertinha&repo=zRobertinha&theme=react)](https://github.com/zRobertinha/zRobertinha)
